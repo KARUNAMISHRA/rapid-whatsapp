@@ -9,7 +9,7 @@ You can check out the live demo of Rapid WhatsApp [here](https://karunamishra.gi
 [![image](https://user-images.githubusercontent.com/74998585/232938597-003793ed-4a40-4b8e-a939-39b2e37c2c36.png)
 ](https://karuna-mishra.github.io/rapid-whatsapp/)
 
-## Getting Started
+## Getting Started 
 
 To get started with Rapid WhatsApp, follow these steps:
 
